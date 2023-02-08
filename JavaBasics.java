@@ -1,5 +1,5 @@
 
-Java        First   Program     !  
+Java        First    Program     !  
  
 public       class    JavaBasics        {
     public static void   main    ( String    args [ ] ) {
